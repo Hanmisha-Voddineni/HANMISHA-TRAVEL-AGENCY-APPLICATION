@@ -1,1 +1,8 @@
-# HANMISHA-TRAVEL-AGENCY-APPLICATION
+__HANMISHA TRAVEL AGENCY APPLICATION__
+- Developed a highly sophisticated application that facilitates efficient travel planning and seamless communication with our agency. The application is designed using Python Streamlit to ensure a user-friendly and intuitive interface. Created ER Diagram, Business rules and 14 entity sets for the project.
+- Database contains over 100 rows of data in each table and features over 35 complex SQL queries to retrieve pertinent information that enhances the user experience.
+- Application is divided into three parts, namely the Welcome page, Employee page, and Customer page. Each section serves a specific purpose and provides relevant information to users.
+- The Welcome page provides a comprehensive overview of our agency and the services we offer. This ensures that customers are familiar with our brand and can make informed decisions about their travel plans.
+- The Employee page is accessible only to authorized personnel and contains valuable information on our employees and company. This includes details on commission calculations, supervisor-employee relationships, total revenue, and best budget-friendly options to recommend to clients. These insights help our team provide exceptional service and deliver outstanding results.
+- The Customer page features a user form that allows customers to provide their information and request a call back from one of our agents. This ensures that our customers receive personalized attention and support from our experienced team.
+- In addition, customers can access our extensive database of previous bookings to view our most booked destinations, world-famous festivals, and popular hotel choices based on location. This allows customers to make informed decisions and tailor their travel plans to their unique preferences and requirements.
