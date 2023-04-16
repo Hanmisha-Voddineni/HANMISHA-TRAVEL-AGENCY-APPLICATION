@@ -1,4 +1,4 @@
-                                                      __HANMISHA TRAVEL AGENCY APPLICATION__
+__HANMISHA TRAVEL AGENCY APPLICATION__
                                                       
 - Developed a highly sophisticated application that facilitates efficient travel planning and seamless communication with our agency. The application is designed using Python Streamlit to ensure a user-friendly and intuitive interface. Created ER Diagram, Business rules and 14 entity sets for the project.
 - Database contains over 100 rows of data in each table and features over 35 complex SQL queries to retrieve pertinent information that enhances the user experience.
