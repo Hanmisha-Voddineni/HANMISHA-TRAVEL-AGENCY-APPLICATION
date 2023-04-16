@@ -1,0 +1,31 @@
+Ticket_no,Transportation_mode,Travelling_from_city,Travelling_from_country,Traveling_to_city,Traveling_to_country,Fare_in_usd
+34534,Flight,Kuala Lumpur,Malaysia,Paris,France,3000
+65464,Flight,Taipei City,Taiwan,Barcelona,Spain,3500
+90237,Train,Vienna,Austria,Bunol,Spain,1800
+45783,Flight,Lima,Peru,Edinburgh,Scotland,4000
+34782,Flight,Berlin,Germany,Tokyo,Japan,3800
+84934,Flight,Warsaw,Poland,Chennai,India,4500
+67695,Flight,Cairo,Egypt,Mexico City,Mexico,3200
+56784,Train,Buenos Aires,Argentina,Dublin,Ireland,2500
+34982,Flight,Toronto,Canada,Mugla,Turkey,2600
+90415,Flight,Bucharest,Romania,Mumbai,India,1600
+74501,Flight,Punta Cana,Dominican Republic,Sydney,Australia,2900
+58340,Road,Berlin,Germany,Munich,Germany,400
+34983,Flight,Lisbon,Portugal,Chiang Mai,Thailand,1400
+69834,Flight,Marrakech,Morocco,Rio de Janeiro,Brazil,1200
+98239,Road,Chennai,India,Kolkata,India,300
+45983,Flight,Manila,Philippines,New York City,USA,2700
+32892,Flight,Siem Reap,Cambodia,Antalya,Turkey,800
+45921,Flight,Amman,Jordan,Istanbul,Turkey,1200
+48923,Flight,Vancouver,Canada,Rome,Italy,2300
+59023,Flight,Frankfurt,Germany,Dubai,UAE,2100
+23906,Flight,Harare,Zimbabwe,Guangzhou,China,3700
+39057,Flight,Paris,France,Phuket,Thailand,2600
+45904,Flight,Barcelona,Spain,Mecca,Saudi Arabia,2400
+34422,Flight,Bunol,Spain,Pattaya,Thailand,3950
+56905,Flight,Edinburgh,Scotland,Taipei City,Taiwan,2450
+58934,Flight,Tokyo,Japan,Prague,Czech Republic,3800
+56534,Train,Chennai,India,Shanghai,China,400
+56452,Road,Los Angeles,USA,Las Vegas,USA,300
+67453,Flight,Chiang Mai,Thailand,Miami,USA,4200
+64363,Flight,Rio de Janeiro,Brazil,Milan,Italy,3200
